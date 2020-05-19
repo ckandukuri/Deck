@@ -1,0 +1,16 @@
+C:\CodingProjects\Deck\SampleDeckOfCards\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\CodingProjects\Deck\SampleDeckOfCards\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\CodingProjects\Deck\SampleDeckOfCards\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\CodingProjects\Deck\SampleDeckOfCards\bin\Debug\SampleDeckOfCards.dll
+C:\CodingProjects\Deck\SampleDeckOfCards\bin\Debug\SampleDeckOfCards.pdb
+C:\CodingProjects\Deck\SampleDeckOfCards\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\CodingProjects\Deck\SampleDeckOfCards\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\CodingProjects\Deck\SampleDeckOfCards\bin\Debug\Newtonsoft.Json.dll
+C:\CodingProjects\Deck\SampleDeckOfCards\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\CodingProjects\Deck\SampleDeckOfCards\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\CodingProjects\Deck\SampleDeckOfCards\bin\Debug\Newtonsoft.Json.xml
+C:\CodingProjects\Deck\SampleDeckOfCards\obj\Debug\SampleDeckOfCards.csprojAssemblyReference.cache
+C:\CodingProjects\Deck\SampleDeckOfCards\obj\Debug\SampleDeckOfCards.csproj.CoreCompileInputs.cache
+C:\CodingProjects\Deck\SampleDeckOfCards\obj\Debug\SampleDeckOfCards.csproj.CopyComplete
+C:\CodingProjects\Deck\SampleDeckOfCards\obj\Debug\SampleDeckOfCards.dll
+C:\CodingProjects\Deck\SampleDeckOfCards\obj\Debug\SampleDeckOfCards.pdb
